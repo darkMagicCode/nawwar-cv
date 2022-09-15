@@ -6,3 +6,12 @@ var typed = new Typed('.text-typed', {
     backSpeed: 30
     // smartBackspace: true
       });
+
+//       var x = prompt("plz enter your name")
+//       var y = prompt("plz enter your name")
+// var z = prompt("plz enter your name")
+      
+
+// document.getElementById("one").innerHTML = x;
+// document.getElementById("two").innerHTML = y;
+// document.getElementById("three").innerHTML = z;
